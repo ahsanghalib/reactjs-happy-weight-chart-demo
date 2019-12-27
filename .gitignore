@@ -4,6 +4,14 @@
 # Lock files
 *.lock
 
+# build
+build
+
+#firebase
+.firebase
+.firebaserc
+firebase.json
+
 # Logs
 logs
 *.log
