@@ -1,5 +1,5 @@
 // Form.io api key
-export const API_KEY = "zKwgnRedqIoSoxZoZS52AZfjQpN1vR";
+export const API_KEY = "FORM.IO_API_KEY";
 
 // Form.io base url
 export const BASE_URL = "https://dmxivfjsnomicef.form.io";
